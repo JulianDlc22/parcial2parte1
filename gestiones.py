@@ -29,6 +29,8 @@ class GestionesCandidata:
 
 
 
+
+
 class GestionesJurado:
     def __init__(self,):
         self.jurado = {}
